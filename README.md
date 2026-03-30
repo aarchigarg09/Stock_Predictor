@@ -22,5 +22,5 @@ How to Run
 -Navigate to the folder where main.py is saved.
 -Run the program using:python
 
-Name: 
-Registration No:  
+Name: Aarchi Garg
+Registration No:  25BCE10186
