@@ -1,4 +1,4 @@
-Overview
+Overview -
 This project predicts the future stock prices using a Linear Regression model. It applies time-series feature engineering (lag features) to forecast the next few days of stock prices based on historical data.
 
 Features
